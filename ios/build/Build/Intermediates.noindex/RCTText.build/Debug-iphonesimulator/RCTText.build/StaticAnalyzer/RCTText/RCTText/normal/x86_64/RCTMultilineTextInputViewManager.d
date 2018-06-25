@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputViewManager.m \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputViewManager.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputViewManager.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextViewManager.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputView.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h

@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/manishasatpute/core-brands/react-native-poc/RN-Poc/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h
